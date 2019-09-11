@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POS-SAP", "POS-SAP\POS-SAP.vbproj", "{73109DA1-CB5F-40C1-AE90-0E6892E6E0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73109DA1-CB5F-40C1-AE90-0E6892E6E0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73109DA1-CB5F-40C1-AE90-0E6892E6E0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73109DA1-CB5F-40C1-AE90-0E6892E6E0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73109DA1-CB5F-40C1-AE90-0E6892E6E0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52EA869B-F63F-4A79-84E3-7C6EE0932E4E}
+	EndGlobalSection
+EndGlobal
